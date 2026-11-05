@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+
+# gerado: datasets, capturas, logs
+dataset/
+shots/
+*.log
+__pycache__/
+
+# binários de terceiros (DLSS/ReShade, playit) e o segredo do agente playit
+bin/
+
+# conteúdo do GTA (pack de veículos GTA Brasil e pedestres do GTA SA): copiar à mão para assets/
+assets/Pack 184 vehicles Extras - GTA Brasil v4/
+assets/peds/

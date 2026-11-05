@@ -1,0 +1,2532 @@
+[
+ {
+  "name": "admiral",
+  "kind": "car",
+  "size": [
+   2.29,
+   5.46,
+   1.54
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "alpha",
+  "kind": "car",
+  "size": [
+   2.22,
+   5.22,
+   1.33
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "ambulan",
+  "kind": "emergency",
+  "size": [
+   2.5,
+   5.82,
+   2.91
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "artict1",
+  "kind": "trailer",
+  "size": [
+   2.89,
+   10.87,
+   3.78
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "artict2",
+  "kind": "trailer",
+  "size": [
+   2.89,
+   11.02,
+   3.46
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "artict3",
+  "kind": "trailer",
+  "size": [
+   2.36,
+   10.64,
+   3.94
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "at400",
+  "kind": "plane",
+  "size": [
+   61.21,
+   58.2,
+   18.21
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "baggage",
+  "kind": "odd",
+  "size": [
+   1.65,
+   3.62,
+   1.8
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "bandito",
+  "kind": "odd",
+  "size": [
+   1.79,
+   4.16,
+   1.7
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "banshee",
+  "kind": "car",
+  "size": [
+   2.19,
+   5.49,
+   1.43
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "barracks",
+  "kind": "truck",
+  "size": [
+   3.48,
+   8.44,
+   3.68
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "benson",
+  "kind": "truck",
+  "size": [
+   2.59,
+   6.56,
+   3.1
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": [
+   "generic92logo256"
+  ]
+ },
+ {
+  "name": "bf400",
+  "kind": "moto",
+  "size": [
+   0.83,
+   2.32,
+   1.23
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "bfinject",
+  "kind": "car",
+  "size": [
+   2.12,
+   4.72,
+   1.85
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 6,
+  "missing": []
+ },
+ {
+  "name": "bike",
+  "kind": "bicycle",
+  "size": [
+   0.72,
+   2.28,
+   1.35
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "blade",
+  "kind": "car",
+  "size": [
+   1.85,
+   4.62,
+   1.64
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "blistac",
+  "kind": "car",
+  "size": [
+   2.13,
+   5.01,
+   1.75
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "bloodra",
+  "kind": "odd",
+  "size": [
+   2.08,
+   5.1,
+   1.86
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "bobcat",
+  "kind": "van",
+  "size": [
+   2.13,
+   5.04,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "boxburg",
+  "kind": "truck",
+  "size": [
+   2.5,
+   6.81,
+   2.91
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "boxville",
+  "kind": "truck",
+  "size": [
+   2.27,
+   5.21,
+   2.73
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "bravura",
+  "kind": "car",
+  "size": [
+   2.19,
+   4.45,
+   1.88
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "broadway",
+  "kind": "car",
+  "size": [
+   2.1,
+   4.66,
+   2.9
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "buccanee",
+  "kind": "car",
+  "size": [
+   2.25,
+   4.39,
+   1.94
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "buffalo",
+  "kind": "car",
+  "size": [
+   2.29,
+   5.32,
+   1.48
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "bullet",
+  "kind": "car",
+  "size": [
+   2.26,
+   5.37,
+   1.61
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "burrito",
+  "kind": "van",
+  "size": [
+   2.5,
+   5.7,
+   2.91
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "bus",
+  "kind": "bus",
+  "size": [
+   2.85,
+   12.67,
+   3.27
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "cabbie",
+  "kind": "car",
+  "size": [
+   2.08,
+   5.01,
+   1.86
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "caddy",
+  "kind": "odd",
+  "size": [
+   2.12,
+   4.37,
+   1.81
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "cadrona",
+  "kind": "car",
+  "size": [
+   2.08,
+   4.64,
+   1.58
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "camper",
+  "kind": "van",
+  "size": [
+   2.39,
+   5.28,
+   2.81
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "cargobob",
+  "kind": "heli",
+  "size": [
+   25.72,
+   25.69,
+   5.53
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "cement",
+  "kind": "truck",
+  "size": [
+   3.48,
+   8.34,
+   4.16
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "cheetah",
+  "kind": "car",
+  "size": [
+   2.23,
+   4.63,
+   1.78
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "clover",
+  "kind": "car",
+  "size": [
+   2.17,
+   5.4,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "club",
+  "kind": "car",
+  "size": [
+   2.15,
+   4.36,
+   1.87
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "coach",
+  "kind": "bus",
+  "size": [
+   2.92,
+   11.43,
+   3.18
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "combine",
+  "kind": "odd",
+  "size": [
+   8.33,
+   8.72,
+   4.27
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": [
+   "coach92interior128"
+  ]
+ },
+ {
+  "name": "comet",
+  "kind": "car",
+  "size": [
+   2.07,
+   5.15,
+   1.54
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "copbike",
+  "kind": "moto",
+  "size": [
+   0.8,
+   2.19,
+   1.55
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "copcarla",
+  "kind": "emergency",
+  "size": [
+   2.45,
+   5.96,
+   2.42
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "copcarru",
+  "kind": "emergency",
+  "size": [
+   2.36,
+   5.24,
+   2.16
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "copcarsf",
+  "kind": "emergency",
+  "size": [
+   2.08,
+   5.01,
+   2.01
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "copcarvg",
+  "kind": "emergency",
+  "size": [
+   2.87,
+   6.75,
+   2.26
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "dft30",
+  "kind": "truck",
+  "size": [
+   3.21,
+   10.88,
+   3.59
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "dozer",
+  "kind": "odd",
+  "size": [
+   3.32,
+   9.32,
+   4.39
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "dumper",
+  "kind": "odd",
+  "size": [
+   5.67,
+   11.2,
+   4.5
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "duneride",
+  "kind": "odd",
+  "size": [
+   3.48,
+   7.11,
+   4.02
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "elegant",
+  "kind": "car",
+  "size": [
+   2.22,
+   5.3,
+   1.87
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "elegy",
+  "kind": "car",
+  "size": [
+   2.09,
+   5.02,
+   1.53
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "emperor",
+  "kind": "car",
+  "size": [
+   2.55,
+   5.01,
+   2.13
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "enforcer",
+  "kind": "emergency",
+  "size": [
+   2.49,
+   6.54,
+   2.34
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "esperant",
+  "kind": "car",
+  "size": [
+   2.31,
+   4.92,
+   1.85
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "euros",
+  "kind": "car",
+  "size": [
+   2.22,
+   5.43,
+   1.61
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "faggio",
+  "kind": "moto",
+  "size": [
+   0.83,
+   2.26,
+   1.28
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "farmtr1",
+  "kind": "trailer",
+  "size": [
+   2.01,
+   4.33,
+   1.87
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "fbiranch",
+  "kind": "emergency",
+  "size": [
+   2.5,
+   6.38,
+   2.33
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "fbitruck",
+  "kind": "emergency",
+  "size": [
+   3.23,
+   7.79,
+   3.07
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "fcr900",
+  "kind": "moto",
+  "size": [
+   0.88,
+   2.53,
+   1.49
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "feltzer",
+  "kind": "car",
+  "size": [
+   2.17,
+   5.34,
+   1.58
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "firela",
+  "kind": "truck",
+  "size": [
+   2.59,
+   6.94,
+   2.94
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "firetruk",
+  "kind": "truck",
+  "size": [
+   -2000000000,
+   -2000000000,
+   -2000000000
+  ],
+  "wheels": 0,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "flash",
+  "kind": "car",
+  "size": [
+   2.13,
+   4.79,
+   1.58
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "flatbed",
+  "kind": "truck",
+  "size": [
+   3.48,
+   8.52,
+   3.74
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "forklift",
+  "kind": "odd",
+  "size": [
+   1.2,
+   3.14,
+   2.06
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "fortune",
+  "kind": "car",
+  "size": [
+   2.06,
+   4.41,
+   1.81
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "freeway",
+  "kind": "moto",
+  "size": [
+   0.8,
+   2.19,
+   1.42
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "freiflat",
+  "kind": "train",
+  "size": [
+   3.13,
+   17.77,
+   3.73
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "freight",
+  "kind": "train",
+  "size": [
+   3.28,
+   18.15,
+   4.77
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "glendale",
+  "kind": "car",
+  "size": [
+   2.12,
+   4.87,
+   1.56
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "glenshit",
+  "kind": "car",
+  "size": [
+   2.04,
+   4.61,
+   2.11
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "greenwoo",
+  "kind": "car",
+  "size": [
+   2.33,
+   5.12,
+   1.85
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hermes",
+  "kind": "car",
+  "size": [
+   1.8,
+   4.43,
+   1.6
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hotdog",
+  "kind": "car",
+  "size": [
+   3.54,
+   7.81,
+   3.27
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hotknife",
+  "kind": "car",
+  "size": [
+   2.3,
+   5.15,
+   1.94
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hotrina",
+  "kind": "odd",
+  "size": [
+   2.51,
+   6.13,
+   2.16
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hotrinb",
+  "kind": "odd",
+  "size": [
+   2.28,
+   5,
+   1.96
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hotring",
+  "kind": "odd",
+  "size": [
+   1.95,
+   5.44,
+   1.3
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "huntley",
+  "kind": "car",
+  "size": [
+   2.45,
+   6.14,
+   2.72
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "hustler",
+  "kind": "car",
+  "size": [
+   2.2,
+   4.66,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "infernus",
+  "kind": "car",
+  "size": [
+   2.68,
+   5.48,
+   1.4
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "intruder",
+  "kind": "car",
+  "size": [
+   2.46,
+   5.5,
+   1.58
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "jester",
+  "kind": "car",
+  "size": [
+   2.13,
+   5.06,
+   1.6
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "journey",
+  "kind": "van",
+  "size": [
+   2.37,
+   5.89,
+   1.83
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "kart",
+  "kind": "odd",
+  "size": [
+   1.15,
+   1.95,
+   0.76
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "landstal",
+  "kind": "car",
+  "size": [
+   2.38,
+   5.35,
+   2.07
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "launch",
+  "kind": "boat",
+  "size": [
+   2.49,
+   12.7,
+   4.96
+  ],
+  "wheels": 0,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "linerun",
+  "kind": "truck",
+  "size": [
+   3.11,
+   6.49,
+   3.95
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "majestic",
+  "kind": "car",
+  "size": [
+   2.35,
+   5.42,
+   1.68
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "manana",
+  "kind": "car",
+  "size": [
+   2.08,
+   5.58,
+   1.64
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 8,
+  "missing": []
+ },
+ {
+  "name": "maverick",
+  "kind": "heli",
+  "size": [
+   13.2,
+   15.57,
+   3.34
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "merit",
+  "kind": "car",
+  "size": [
+   2.36,
+   5.31,
+   1.69
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "mesa",
+  "kind": "car",
+  "size": [
+   1.96,
+   4.12,
+   1.82
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": [
+   "rayas"
+  ]
+ },
+ {
+  "name": "monster",
+  "kind": "odd",
+  "size": [
+   3.11,
+   6.2,
+   2.85
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "monstera",
+  "kind": "odd",
+  "size": [
+   2.72,
+   6.22,
+   2.06
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "monsterb",
+  "kind": "odd",
+  "size": [
+   2.44,
+   6.03,
+   2.2
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "moonbeam",
+  "kind": "van",
+  "size": [
+   2.43,
+   6.24,
+   2.45
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "mower",
+  "kind": "odd",
+  "size": [
+   1.87,
+   4.05,
+   2.3
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "mrwhoop",
+  "kind": "car",
+  "size": [
+   2.35,
+   5.86,
+   2.24
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "mule",
+  "kind": "truck",
+  "size": [
+   2.59,
+   6.62,
+   3.02
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "nebula",
+  "kind": "car",
+  "size": [
+   2.14,
+   4.83,
+   1.63
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "newsvan",
+  "kind": "van",
+  "size": [
+   2.5,
+   5.82,
+   3.44
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "nrg500",
+  "kind": "moto",
+  "size": [
+   0.86,
+   2.23,
+   1.41
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "oceanic",
+  "kind": "car",
+  "size": [
+   2.1,
+   4.17,
+   1.65
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "packer",
+  "kind": "truck",
+  "size": [
+   3.03,
+   14.94,
+   5.98
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": [
+   "linerun92chrome32"
+  ]
+ },
+ {
+  "name": "patriot",
+  "kind": "car",
+  "size": [
+   2.29,
+   4.56,
+   1.97
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "pcj600",
+  "kind": "moto",
+  "size": [
+   0.88,
+   2.41,
+   1.33
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "peren",
+  "kind": "car",
+  "size": [
+   1.99,
+   4.7,
+   1.65
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "petro",
+  "kind": "truck",
+  "size": [
+   3.48,
+   5.74,
+   3.58
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "petrotr",
+  "kind": "trailer",
+  "size": [
+   2.8,
+   13.6,
+   4.02
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "phoenix",
+  "kind": "car",
+  "size": [
+   2.19,
+   4.82,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "picador",
+  "kind": "van",
+  "size": [
+   2.25,
+   5.32,
+   1.96
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "pizzaboy",
+  "kind": "moto",
+  "size": [
+   0.75,
+   2.57,
+   1.44
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "polmav",
+  "kind": "heli",
+  "size": [
+   11.39,
+   14.11,
+   3.83
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "pony",
+  "kind": "van",
+  "size": [
+   2.37,
+   5.25,
+   2.61
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "premier",
+  "kind": "car",
+  "size": [
+   2.19,
+   4.82,
+   1.72
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "previon",
+  "kind": "car",
+  "size": [
+   1.93,
+   4.02,
+   1.69
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "primo",
+  "kind": "car",
+  "size": [
+   2.27,
+   5.08,
+   1.71
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "quad",
+  "kind": "odd",
+  "size": [
+   1.38,
+   3.35,
+   1.56
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "raindanc",
+  "kind": "heli",
+  "size": [
+   19.01,
+   19.19,
+   4.46
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "rancher",
+  "kind": "car",
+  "size": [
+   2.26,
+   4.98,
+   1.73
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "rcbandit",
+  "kind": "odd",
+  "size": [
+   0.5,
+   0.85,
+   0.39
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "rccam",
+  "kind": "odd",
+  "size": [
+   0.69,
+   1.2,
+   1.2
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "rdtrain",
+  "kind": "truck",
+  "size": [
+   3.47,
+   8.38,
+   3.9
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "reefer",
+  "kind": "boat",
+  "size": [
+   5.82,
+   11.87,
+   9
+  ],
+  "wheels": 0,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "regina",
+  "kind": "car",
+  "size": [
+   1.99,
+   4.95,
+   1.88
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "remingtn",
+  "kind": "car",
+  "size": [
+   2.35,
+   4.87,
+   1.59
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "rhino",
+  "kind": "odd",
+  "size": [
+   4.17,
+   10.98,
+   4.63
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "rnchlure",
+  "kind": "car",
+  "size": [
+   2.5,
+   5.94,
+   2.91
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "romero",
+  "kind": "car",
+  "size": [
+   2.25,
+   5.82,
+   2.55
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "rumpo",
+  "kind": "van",
+  "size": [
+   2.34,
+   4.77,
+   2.1
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 6,
+  "missing": []
+ },
+ {
+  "name": "sabre",
+  "kind": "car",
+  "size": [
+   2.37,
+   4.98,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "sadler",
+  "kind": "van",
+  "size": [
+   2.13,
+   4.94,
+   1.6
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "sadlshit",
+  "kind": "van",
+  "size": [
+   2.2,
+   5.96,
+   2.24
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 4,
+  "missing": []
+ },
+ {
+  "name": "sanchez",
+  "kind": "moto",
+  "size": [
+   0.84,
+   2.15,
+   1.41
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "sandking",
+  "kind": "car",
+  "size": [
+   2.3,
+   5.14,
+   1.84
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "savanna",
+  "kind": "car",
+  "size": [
+   2.31,
+   5.51,
+   1.65
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "securica",
+  "kind": "truck",
+  "size": [
+   2.94,
+   5.94,
+   2.65
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "sentinel",
+  "kind": "car",
+  "size": [
+   2.5,
+   5.75,
+   2.15
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "slamvan",
+  "kind": "car",
+  "size": [
+   2.87,
+   6.56,
+   2.13
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "solair",
+  "kind": "car",
+  "size": [
+   2.4,
+   5.18,
+   1.76
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "sparrow",
+  "kind": "heli",
+  "size": [
+   13.44,
+   13.52,
+   3.23
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "stafford",
+  "kind": "car",
+  "size": [
+   2.24,
+   5.29,
+   1.91
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "stallion",
+  "kind": "car",
+  "size": [
+   1.99,
+   5.17,
+   1.6
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "stratum",
+  "kind": "car",
+  "size": [
+   2.25,
+   5.35,
+   1.75
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "streak",
+  "kind": "train",
+  "size": [
+   3.32,
+   17.12,
+   4.6
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "streakc",
+  "kind": "train",
+  "size": [
+   3.14,
+   21.03,
+   4.62
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "stretch",
+  "kind": "car",
+  "size": [
+   2,
+   4.61,
+   1.25
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "sultan",
+  "kind": "car",
+  "size": [
+   2.25,
+   5.04,
+   1.64
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "sunrise",
+  "kind": "car",
+  "size": [
+   2.35,
+   5.38,
+   1.59
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "supergt",
+  "kind": "car",
+  "size": [
+   2.15,
+   4.76,
+   1.28
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "swatvan",
+  "kind": "emergency",
+  "size": [
+   2.64,
+   6.56,
+   5.9
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "sweeper",
+  "kind": "odd",
+  "size": [
+   2.25,
+   4.75,
+   1.75
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "tahoma",
+  "kind": "car",
+  "size": [
+   1.99,
+   5,
+   1.65
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "tampa",
+  "kind": "car",
+  "size": [
+   2.01,
+   4.77,
+   2.26
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "taxi",
+  "kind": "car",
+  "size": [
+   2.27,
+   5.06,
+   1.79
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "topfun",
+  "kind": "van",
+  "size": [
+   2.12,
+   4.95,
+   2.09
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 3,
+  "missing": []
+ },
+ {
+  "name": "tornado",
+  "kind": "car",
+  "size": [
+   2.08,
+   5.33,
+   1.64
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "towtruck",
+  "kind": "car",
+  "size": [
+   2.87,
+   6.99,
+   2.43
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "tractor",
+  "kind": "odd",
+  "size": [
+   2.01,
+   4.97,
+   2.57
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "tram",
+  "kind": "train",
+  "size": [
+   2.31,
+   8.77,
+   3.52
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "trash",
+  "kind": "truck",
+  "size": [
+   4.85,
+   8.31,
+   3.71
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "tugstair",
+  "kind": "trailer",
+  "size": [
+   2.94,
+   13.17,
+   6.57
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "turismo",
+  "kind": "car",
+  "size": [
+   2.5,
+   5.91,
+   1.57
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "uranus",
+  "kind": "car",
+  "size": [
+   2.48,
+   5.72,
+   2.04
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "utility",
+  "kind": "car",
+  "size": [
+   2.86,
+   6.6,
+   2.26
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "utiltr1",
+  "kind": "trailer",
+  "size": [
+   2.61,
+   5.25,
+   1.55
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "vcnmav",
+  "kind": "heli",
+  "size": [
+   11.39,
+   12.57,
+   3.75
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 0,
+  "missing": []
+ },
+ {
+  "name": "vincent",
+  "kind": "car",
+  "size": [
+   2.39,
+   5.63,
+   1.67
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "virgo",
+  "kind": "car",
+  "size": [
+   1.91,
+   3.68,
+   1.66
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "voodoo",
+  "kind": "car",
+  "size": [
+   2.5,
+   6.45,
+   2.22
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "walton",
+  "kind": "van",
+  "size": [
+   2.55,
+   6.17,
+   2.55
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "washing",
+  "kind": "car",
+  "size": [
+   2.1,
+   4.79,
+   1.5
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "wayfarer",
+  "kind": "moto",
+  "size": [
+   0.85,
+   2.19,
+   1.42
+  ],
+  "wheels": 0,
+  "wheelMesh": true,
+  "bikeWheels": true,
+  "plates": 1,
+  "missing": []
+ },
+ {
+  "name": "willard",
+  "kind": "car",
+  "size": [
+   2.05,
+   4.42,
+   1.8
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "windsor",
+  "kind": "car",
+  "size": [
+   2.2,
+   4.3,
+   1.64
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "yankee",
+  "kind": "truck",
+  "size": [
+   3.03,
+   10.02,
+   3.44
+  ],
+  "wheels": 6,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": [
+   "generic92logo256"
+  ]
+ },
+ {
+  "name": "yosemite",
+  "kind": "van",
+  "size": [
+   2.15,
+   5.5,
+   2.32
+  ],
+  "wheels": 4,
+  "wheelMesh": false,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ },
+ {
+  "name": "zr350",
+  "kind": "car",
+  "size": [
+   2.43,
+   5.66,
+   2.02
+  ],
+  "wheels": 4,
+  "wheelMesh": true,
+  "bikeWheels": false,
+  "plates": 2,
+  "missing": []
+ }
+]

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Placas</title>
+<style>
+  html, body { margin: 0; background: #2a2d31; color: #d6dae0; font-family: system-ui, sans-serif; }
+  header { padding: 10px 16px; font-size: 13px; color: #9aa1ab; }
+  header a { color: #c9d4e3; margin-right: 10px; }
+  #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; padding: 0 16px 16px; }
+  figure { margin: 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; }
+  figure canvas { max-width: 100%; height: auto; }
+  figure.moto canvas { width: 150px; }
+  figcaption { margin-top: 4px; font: 12px ui-monospace, monospace; color: #c9ced6; }
+  figcaption span { color: #7d848e; }
+</style>
+</head>
+<body>
+<header>
+  Query: <code>?seed=a&amp;n=40&amp;wear=0.3&amp;vehicle=mix&amp;style=auto&amp;category=auto&amp;boxes=1</code> &middot;
+  <a href="?wear=0">sem desgaste</a><a href="?wear=1">desgaste máximo</a><a href="?boxes=1">caixas OCR</a><a href="?vehicle=moto">motos</a><a href="?style=antiga">antigas</a>
+</header>
+<div id="grid"></div>
+<script type="module">
+import { Rng } from '/src/core/rng.js';
+import { loadPlateAssets, generatePlate } from '/src/vehicles/plates.js';
+
+const q = new URLSearchParams(location.search);
+const seed = q.get('seed') || 'plates';
+const n = +(q.get('n') || 40);
+const wearArg = q.get('wear');
+const vehicleArg = q.get('vehicle') || 'mix';
+const showBoxes = q.has('boxes');
+
+try {
+  await loadPlateAssets();
+  const grid = document.getElementById('grid');
+  for (let i = 0; i < n; i++) {
+    const rng = new Rng(`${seed}/${i}`);
+    const vehicle = vehicleArg === 'mix' ? (i % 5 === 4 ? 'moto' : 'carro') : vehicleArg;
+    // Without ?wear, spread wear over the grid so the range is visible.
+    const wear = wearArg != null ? +wearArg : (i % 10) / 9;
+    const p = generatePlate(rng, {
+      vehicle, wear,
+      style: q.get('style') || 'auto',
+      category: q.get('category') || 'auto',
+      font: q.get('font') || undefined,
+      text: q.get('text') || undefined,
+    });
+    if (showBoxes) {
+      const g = p.canvas.getContext('2d');
+      g.strokeStyle = '#00e0ff'; g.lineWidth = 1;
+      for (const c of p.chars) g.strokeRect(c.x0, c.y0, c.x1 - c.x0, c.y1 - c.y0);
+    }
+    const fig = document.createElement('figure');
+    fig.className = vehicle;
+    const cap = document.createElement('figcaption');
+    cap.innerHTML = `${p.text} <span>${p.style} ${p.category} ${p.city ? p.uf + ' ' + p.city : ''} w${wear.toFixed(2)}</span>`;
+    fig.append(p.canvas, cap);
+    grid.append(fig);
+  }
+  window.__ready = true;
+} catch (e) {
+  window.__error = String(e && e.stack || e);
+  throw e;
+}
+</script>
+</body>
+</html>

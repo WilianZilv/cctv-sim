@@ -1,0 +1,28 @@
+{
+  "name": "cctv-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 30140 --strictPort",
+    "build": "vite build",
+    "stream": "node tools/stream.mjs",
+    "tunnel": "\"C:/Program Files (x86)/cloudflared/cloudflared.exe\" tunnel --config tools/cloudflared.yml run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@mapbox/vector-tile": "^3.0.0",
+    "clipper-lib": "^6.4.2",
+    "lil-gui": "^0.21.0",
+    "mapbox-gl": "^3.33.0",
+    "pbf": "^5.1.2",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.1",
+    "vite": "^8.3.5"
+  }
+}

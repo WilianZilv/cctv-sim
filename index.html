@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CCTV Sim</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #0b0c0e; overflow: hidden; font-family: system-ui, sans-serif; }
+  #view { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+  #view canvas { width: 100%; height: 100%; object-fit: contain; display: block; }
+  #help { position: absolute; left: 12px; top: 10px; color: #c9ced6; font-size: 12px; line-height: 1.5; background: rgba(10,11,13,0.7); padding: 8px 10px; border-radius: 6px; pointer-events: none; display: none; }
+  #status { position: absolute; left: 12px; bottom: 10px; color: #8a9099; font-size: 12px; pointer-events: none; white-space: pre; }
+</style>
+</head>
+<body>
+<div id="view"></div>
+<div id="status"></div>
+<div id="help">Câmera livre: arraste para olhar · WASD andar · Q/E descer/subir · Shift correr · roda do mouse: velocidade<br>F sai da câmera livre · M abre o mapa · Shift+G gera nova cena · L abre o color grading</div>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>

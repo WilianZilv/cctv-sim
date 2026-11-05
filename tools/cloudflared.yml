@@ -1,0 +1,10 @@
+# Cloudflare Tunnel for the RTSP server (tools/stream.mjs, port 8554).
+#   run:     cloudflared tunnel --config tools/cloudflared.yml run
+#   viewer:  cloudflared access tcp --hostname rtsp-cctv.animasticker.com --url localhost:8554
+#            then rtsp://user:pass@localhost:8554/cam1 (VLC / ffmpeg / NVR on that machine)
+tunnel: 8a9bf3a2-0399-421f-a705-5e2f9e60924a
+credentials-file: C:\Users\wilia\.cloudflared\8a9bf3a2-0399-421f-a705-5e2f9e60924a.json
+ingress:
+  - hostname: rtsp-cctv.animasticker.com
+    service: tcp://localhost:8554
+  - service: http_status:404
